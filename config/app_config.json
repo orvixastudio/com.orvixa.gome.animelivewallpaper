@@ -12,10 +12,11 @@
     "enable_dark_mode_as_default_theme": false,
     "enable_more_apps": true,
     "redirect_url": "",
+    "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-gome-anime-live-wallpaper.html",
     "category_json_url": "https://raw.githubusercontent.com/orvixastudio/com.orvixa.gome.animelivewallpaper/main/config/categories.json",
     "wallpaper_json_url": "https://raw.githubusercontent.com/orvixastudio/com.orvixa.gome.animelivewallpaper/main/config/wallpapers.json",
     "more_app_json_url": "",
-    "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-gome-anime-live-wallpaper.html"
+    "json_version": 1
   },
   "ads": {
     "mainAds": "admob",
