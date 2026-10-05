@@ -16,7 +16,7 @@
     "category_json_url": "https://raw.githubusercontent.com/orvixastudio/com.orvixa.gome.animelivewallpaper/main/config/categories.json",
     "wallpaper_json_url": "https://raw.githubusercontent.com/orvixastudio/com.orvixa.gome.animelivewallpaper/main/config/wallpapers.json",
     "more_app_json_url": "",
-    "json_version": 1
+    "json_version": 2
   },
   "ads": {
     "mainAds": "admob",
