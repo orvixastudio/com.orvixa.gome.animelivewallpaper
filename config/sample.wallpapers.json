@@ -1,0 +1,254 @@
+{
+  "wallpapers": [
+    {
+      "wallpaper_id": 13210001,
+      "category_name": "Lofi & Scenery",
+      "wallpaper_name": "Sunset Train Station Girl",
+      "wallpaper_thumbnail": "13210001.webp",
+      "wallpaper_url": "13210001.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, cute anime girl waiting at a sunset train station, wearing a school uniform, beautiful golden hour lighting, highly detailed face, Makoto Shinkai style, lofi aesthetic"
+    },
+    {
+      "wallpaper_id": 13210002,
+      "category_name": "Lofi & Scenery",
+      "wallpaper_name": "Rainy City Boy",
+      "wallpaper_thumbnail": "13210002.webp",
+      "wallpaper_url": "13210002.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, handsome anime boy holding a clear umbrella in a rainy neon city street, wearing a stylish winter coat, cinematic lighting, highly detailed face, 4k resolution"
+    },
+    {
+      "wallpaper_id": 13210003,
+      "category_name": "Lofi & Scenery",
+      "wallpaper_name": "Cozy Afternoon Reader",
+      "wallpaper_thumbnail": "13210003.webp",
+      "wallpaper_url": "13210003.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, beautiful anime girl relaxing on a cozy bed reading a book, afternoon sunlight filtering through window, wearing oversized sweater, lofi aesthetic, peaceful vibes"
+    },
+    {
+      "wallpaper_id": 13210004,
+      "category_name": "Lofi & Scenery",
+      "wallpaper_name": "Cherry Blossom Maiden",
+      "wallpaper_thumbnail": "13210004.webp",
+      "wallpaper_url": "13210004.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, elegant anime girl walking on a cherry blossom path, wearing a beautiful spring dress, looking at the viewer, falling pink petals, Studio Ghibli character style"
+    },
+    {
+      "wallpaper_id": 13220001,
+      "category_name": "Fantasy & Magic",
+      "wallpaper_name": "Princess of the Sky",
+      "wallpaper_thumbnail": "13220001.webp",
+      "wallpaper_url": "13220001.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, beautiful anime elf princess standing in front of a majestic floating castle, wearing elegant fantasy armor, holding a glowing staff, highly detailed face, epic fantasy art"
+    },
+    {
+      "wallpaper_id": 13220002,
+      "category_name": "Fantasy & Magic",
+      "wallpaper_name": "Forest Fairy",
+      "wallpaper_thumbnail": "13220002.webp",
+      "wallpaper_url": "13220002.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, cute anime fairy girl sitting in an enchanted glowing forest, bioluminescent plants, glowing butterflies around her, vibrant fantasy colors, masterpiece"
+    },
+    {
+      "wallpaper_id": 13220003,
+      "category_name": "Fantasy & Magic",
+      "wallpaper_name": "The Blue Wizard",
+      "wallpaper_thumbnail": "13220003.webp",
+      "wallpaper_url": "13220003.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, handsome anime wizard casting a glowing blue magic spell from his hand, flowing elegant dark robes, dramatic lighting, magical aura, high fantasy character design"
+    },
+    {
+      "wallpaper_id": 13220004,
+      "category_name": "Fantasy & Magic",
+      "wallpaper_name": "Crystal Explorer",
+      "wallpaper_thumbnail": "13220004.webp",
+      "wallpaper_url": "13220004.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, anime female adventurer exploring an underground crystal cavern, holding a glowing lantern, wearing fantasy leather armor, purple and blue giant crystals background"
+    },
+    {
+      "wallpaper_id": 13230001,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "wallpaper_name": "Neon City Girl",
+      "wallpaper_thumbnail": "13230001.webp",
+      "wallpaper_url": "13230001.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, cool anime girl in a futuristic neon metropolis, wearing high-tech streetwear jacket, glowing cyan and magenta accents, cyberpunk aesthetic, highly detailed face, night time"
+    },
+    {
+      "wallpaper_id": 13230002,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "wallpaper_name": "Alleyway Runner",
+      "wallpaper_thumbnail": "13230002.webp",
+      "wallpaper_url": "13230002.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, badass anime boy in a dark cyberpunk alleyway, wearing a glowing led jacket, futuristic goggles resting on head, safe for work, highly detailed, confident smile"
+    },
+    {
+      "wallpaper_id": 13230003,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "wallpaper_name": "Space Station Navigator",
+      "wallpaper_thumbnail": "13230003.webp",
+      "wallpaper_url": "13230003.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, beautiful anime female astronaut inside a deep space station, looking out the window at a purple gas giant planet, sleek sci-fi uniform, cinematic space lighting"
+    },
+    {
+      "wallpaper_id": 13230004,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "wallpaper_name": "Neon Rider",
+      "wallpaper_thumbnail": "13230004.webp",
+      "wallpaper_url": "13230004.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, badass cyberpunk anime girl sitting on a futuristic glowing motorcycle, rainy neon-lit street, retro anime illustration style, high contrast, detailed face"
+    },
+    {
+      "wallpaper_id": 13240001,
+      "category_name": "Samurai & Ninja",
+      "wallpaper_name": "Sunset Ronin",
+      "wallpaper_thumbnail": "13240001.webp",
+      "wallpaper_url": "13240001.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, beautiful female anime samurai standing on a hill at sunset, holding a katana, traditional kimono with floral patterns, wind blowing her hair, traditional Japanese aesthetic"
+    },
+    {
+      "wallpaper_id": 13240002,
+      "category_name": "Samurai & Ninja",
+      "wallpaper_name": "Hidden Village Shinobi",
+      "wallpaper_thumbnail": "13240002.webp",
+      "wallpaper_url": "13240002.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, handsome anime ninja resting on a tree branch in a hidden misty village, traditional dark shinobi gear, autumn red maple leaves, peaceful morning light, highly detailed"
+    },
+    {
+      "wallpaper_id": 13240003,
+      "category_name": "Samurai & Ninja",
+      "wallpaper_name": "Moonlight Kunoichi",
+      "wallpaper_thumbnail": "13240003.webp",
+      "wallpaper_url": "13240003.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, cool kunoichi anime girl standing on a temple rooftop under a full moon, wearing a mask on the side of her head and ninja outfit, safe for work, epic anime art style"
+    },
+    {
+      "wallpaper_id": 13240004,
+      "category_name": "Samurai & Ninja",
+      "wallpaper_name": "The Glowing Blade",
+      "wallpaper_thumbnail": "13240004.webp",
+      "wallpaper_url": "13240004.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, fierce anime samurai drawing a glowing magical katana blade, reflecting moonlight on his face, cherry blossoms falling, dramatic action stance, masterpiece"
+    },
+    {
+      "wallpaper_id": 13250001,
+      "category_name": "Mecha & Robots",
+      "wallpaper_name": "The Sentinel Pilot",
+      "wallpaper_thumbnail": "13250001.webp",
+      "wallpaper_url": "13250001.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, beautiful anime mecha pilot girl wearing a sleek high-tech plugsuit, standing confidently in front of a massive humanoid robot, futuristic hangar, highly detailed face"
+    },
+    {
+      "wallpaper_id": 13250002,
+      "category_name": "Mecha & Robots",
+      "wallpaper_name": "Desert Commander",
+      "wallpaper_thumbnail": "13250002.webp",
+      "wallpaper_url": "13250002.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, handsome anime male pilot standing on the shoulder of a giant mecha in a sandy desert, dramatic dust clouds, cinematic sunlight, detailed sci-fi uniform, epic scale"
+    },
+    {
+      "wallpaper_id": 13250003,
+      "category_name": "Mecha & Robots",
+      "wallpaper_name": "Heroic Cyborg",
+      "wallpaper_thumbnail": "13250003.webp",
+      "wallpaper_url": "13250003.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1girl, heroic anime female commander with subtle cybernetic enhancements on her face, commanding a mecha fleet, safe for work, heroic pose, 90s classic anime style"
+    },
+    {
+      "wallpaper_id": 13250004,
+      "category_name": "Mecha & Robots",
+      "wallpaper_name": "Energy Shield Defender",
+      "wallpaper_thumbnail": "13250004.webp",
+      "wallpaper_url": "13250004.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "ar 9:20, 1boy, cool anime boy controlling a glowing blue energy shield with a futuristic gauntlet, giant mech in the background defending the city, action packed scene, detailed eyes"
+    },
+    {
+      "wallpaper_id": 13210005,
+      "category_name": "Lofi & Scenery",
+      "wallpaper_name": "River Forest Girl",
+      "wallpaper_thumbnail": "13210005.webp",
+      "wallpaper_url": "13210005.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "ar 9:20, 1girl, stunning anime girl standing by a flowing river in a lush green forest, hair gently blowing in the wind, sunbeams shining through leaves, tranquil vibes, cinematic animation style"
+    },
+    {
+      "wallpaper_id": 13220005,
+      "category_name": "Fantasy & Magic",
+      "wallpaper_name": "Golden Portal Sorceress",
+      "wallpaper_thumbnail": "13220005.webp",
+      "wallpaper_url": "13220005.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "ar 9:20, 1girl, majestic anime sorceress standing in front of a golden glowing portal, wind blowing her hair and cloak, magical dust in the air, fantasy animation, ancient ruins"
+    },
+    {
+      "wallpaper_id": 13230005,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "wallpaper_name": "Cyber Rain Boy",
+      "wallpaper_thumbnail": "13230005.webp",
+      "wallpaper_url": "13230005.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "ar 9:20, 1boy, futuristic anime character standing in cyber rain, flashing holographic neon signs in the background, atmospheric sci-fi mood, glowing blue eyes, detailed face"
+    },
+    {
+      "wallpaper_id": 13240005,
+      "category_name": "Samurai & Ninja",
+      "wallpaper_name": "Bamboo Forest Samurai",
+      "wallpaper_thumbnail": "13240005.webp",
+      "wallpaper_url": "13240005.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "ar 9:20, 1girl, elegant female samurai standing in a lush bamboo forest, leaves swaying gently in the wind, holding a bamboo sword, tranquil traditional anime scene"
+    },
+    {
+      "wallpaper_id": 13250005,
+      "category_name": "Mecha & Robots",
+      "wallpaper_name": "Active Hangar Mechanic",
+      "wallpaper_thumbnail": "13250005.webp",
+      "wallpaper_url": "13250005.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "ar 9:20, 1girl, cute anime mechanic girl holding a glowing datapad inside an active mecha hangar bay, blinking red lights, steam releasing from mecha joints, sci-fi anime setting"
+    }
+  ]
+}

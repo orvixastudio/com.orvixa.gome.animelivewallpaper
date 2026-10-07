@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "category_id": 1928100,
+      "category_name": "Lofi & Scenery",
+      "category_image": "1928100.webp"
+    },
+    {
+      "category_id": 1928200,
+      "category_name": "Fantasy & Magic",
+      "category_image": "1928200.webp"
+    },
+    {
+      "category_id": 1928300,
+      "category_name": "Cyberpunk & Sci-Fi",
+      "category_image": "1928300.webp"
+    },
+    {
+      "category_id": 1928400,
+      "category_name": "Samurai & Ninja",
+      "category_image": "1928400.webp"
+    },
+    {
+      "category_id": 1928500,
+      "category_name": "Mecha & Robots",
+      "category_image": "1928500.webp"
+    }
+  ]
+}
