@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "category_id": 14701,
+      "category_name": "Live Wallpaper",
+      "category_image": "14701.webp"
+    },
+    {
+      "category_id": 300,
+      "category_name": "Anime Girls 1",
+      "category_image": "300.webp"
+    },
+    {
+      "category_id": 310,
+      "category_name": "Anime Girls 2",
+      "category_image": "310.webp"
+    },
+    {
+      "category_id": 400,
+      "category_name": "Anime Black",
+      "category_image": "400.webp"
+    },
+    {
+      "category_id": 600,
+      "category_name": "Attack on Titan",
+      "category_image": "600.webp"
+    },
+    {
+      "category_id": 900,
+      "category_name": "Dragon Ball",
+      "category_image": "900.webp"
+    },
+    {
+      "category_id": 1200,
+      "category_name": "Demon Slayer: Kimetsu no Yaiba",
+      "category_image": "1200.webp"
+    },
+    {
+      "category_id": 1500,
+      "category_name": "Naruto - Boruto",
+      "category_image": "1500.webp"
+    },
+    {
+      "category_id": 1600,
+      "category_name": "One Piece",
+      "category_image": "1600.webp"
+    },
+    {
+      "category_id": 2000,
+      "category_name": "My Hero Academia",
+      "category_image": "2000.webp"
+    },
+    {
+      "category_id": 2300,
+      "category_name": "Jujutsu Kaisen",
+      "category_image": "2300.webp"
+    },
+    {
+      "category_id": 2500,
+      "category_name": "Hunter x Hunter",
+      "category_image": "2500.webp"
+    },
+    {
+      "category_id": 2600,
+      "category_name": "One Punch Man",
+      "category_image": "2600.webp"
+    },
+    {
+      "category_id": 2800,
+      "category_name": "Tokyo Ghoul",
+      "category_image": "2800.webp"
+    },
+    {
+      "category_id": 3000,
+      "category_name": "Tokyo Revengers",
+      "category_image": "3000.webp"
+    },
+    {
+      "category_id": 3200,
+      "category_name": "Black Clover",
+      "category_image": "3200.webp"
+    },
+    {
+      "category_id": 3400,
+      "category_name": "Bleach",
+      "category_image": "3400.webp"
+    },
+    {
+      "category_id": 3600,
+      "category_name": "Digimon",
+      "category_image": "3600.webp"
+    },
+    {
+      "category_id": 3800,
+      "category_name": "Fairy Tail",
+      "category_image": "3800.webp"
+    },
+    {
+      "category_id": 3820,
+      "category_name": "Anime Glow Art",
+      "category_image": "3820.webp"
+    },
+    {
+      "category_id": 7000,
+      "category_name": "Accel World",
+      "category_image": "7000.webp"
+    },
+    {
+      "category_id": 7100,
+      "category_name": "Akame Ga Kill",
+      "category_image": "7100.webp"
+    },
+    {
+      "category_id": 7120,
+      "category_name": "Aharen San",
+      "category_image": "7120.webp"
+    },
+    {
+      "category_id": 7200,
+      "category_name": "Angel Beats",
+      "category_image": "7200.webp"
+    },
+    {
+      "category_id": 7300,
+      "category_name": "Angels of Death",
+      "category_image": "7300.webp"
+    },
+    {
+      "category_id": 7320,
+      "category_name": "Ao Ashi",
+      "category_image": "7320.webp"
+    },
+    {
+      "category_id": 7400,
+      "category_name": "Arknights",
+      "category_image": "7400.webp"
+    },
+    {
+      "category_id": 7500,
+      "category_name": "Avatar",
+      "category_image": "7500.webp"
+    },
+    {
+      "category_id": 7600,
+      "category_name": "Azur Lane",
+      "category_image": "7600.webp"
+    },
+    {
+      "category_id": 7700,
+      "category_name": "Berserk",
+      "category_image": "7700.webp"
+    },
+    {
+      "category_id": 7800,
+      "category_name": "Blue Exorcist",
+      "category_image": "7800.webp"
+    },
+    {
+      "category_id": 7900,
+      "category_name": "Bofuri",
+      "category_image": "7900.webp"
+    },
+    {
+      "category_id": 8000,
+      "category_name": "Captain Tsubasa",
+      "category_image": "8000.webp"
+    },
+    {
+      "category_id": 8100,
+      "category_name": "Chainsaw Man",
+      "category_image": "8100.webp"
+    },
+    {
+      "category_id": 8200,
+      "category_name": "Clannad",
+      "category_image": "8200.webp"
+    },
+    {
+      "category_id": 8300,
+      "category_name": "Code Geass",
+      "category_image": "8300.webp"
+    },
+    {
+      "category_id": 8400,
+      "category_name": "Darling in the Franxx",
+      "category_image": "8400.webp"
+    },
+    {
+      "category_id": 8500,
+      "category_name": "Date A Live",
+      "category_image": "8500.webp"
+    },
+    {
+      "category_id": 8600,
+      "category_name": "Death Note",
+      "category_image": "8600.webp"
+    },
+    {
+      "category_id": 8700,
+      "category_name": "Detective Conan",
+      "category_image": "8700.webp"
+    },
+    {
+      "category_id": 8800,
+      "category_name": "Doraemon",
+      "category_image": "8800.webp"
+    },
+    {
+      "category_id": 8900,
+      "category_name": "Dororo",
+      "category_image": "8900.webp"
+    },
+    {
+      "category_id": 9000,
+      "category_name": "Dr. Stone",
+      "category_image": "9000.webp"
+    },
+    {
+      "category_id": 9100,
+      "category_name": "Eromanga Sensei",
+      "category_image": "9100.webp"
+    },
+    {
+      "category_id": 9200,
+      "category_name": "Fate Series",
+      "category_image": "9200.webp"
+    },
+    {
+      "category_id": 9300,
+      "category_name": "Final Fantasy",
+      "category_image": "9300.webp"
+    },
+    {
+      "category_id": 9400,
+      "category_name": "Fire Force",
+      "category_image": "9400.webp"
+    },
+    {
+      "category_id": 9500,
+      "category_name": "Fullmetal Alchemist",
+      "category_image": "9500.webp"
+    },
+    {
+      "category_id": 9600,
+      "category_name": "Genshin Impact",
+      "category_image": "9600.webp"
+    },
+    {
+      "category_id": 9700,
+      "category_name": "Gintama",
+      "category_image": "9700.webp"
+    },
+    {
+      "category_id": 9800,
+      "category_name": "Goblin Slayer",
+      "category_image": "9800.webp"
+    },
+    {
+      "category_id": 9900,
+      "category_name": "Gundam",
+      "category_image": "9900.webp"
+    },
+    {
+      "category_id": 10000,
+      "category_name": "Haikyu",
+      "category_image": "10000.webp"
+    },
+    {
+      "category_id": 10100,
+      "category_name": "Hige wo Soru",
+      "category_image": "10100.webp"
+    },
+    {
+      "category_id": 10200,
+      "category_name": "High School DxD",
+      "category_image": "10200.webp"
+    },
+    {
+      "category_id": 10300,
+      "category_name": "Honkai Impact 3rd",
+      "category_image": "10300.webp"
+    },
+    {
+      "category_id": 10400,
+      "category_name": "Houseki no Kuni (Land of the Lustrous)",
+      "category_image": "10400.webp"
+    },
+    {
+      "category_id": 10500,
+      "category_name": "Inazuma Eleven",
+      "category_image": "10500.webp"
+    },
+    {
+      "category_id": 10600,
+      "category_name": "Inuyasha",
+      "category_image": "10600.webp"
+    },
+    {
+      "category_id": 10700,
+      "category_name": "Jojo's Bizarre Adventure",
+      "category_image": "10700.webp"
+    },
+    {
+      "category_id": 10800,
+      "category_name": "Kaguya-sama Wa Kokurasetai",
+      "category_image": "10800.webp"
+    },
+    {
+      "category_id": 10900,
+      "category_name": "Kakegurui",
+      "category_image": "10900.webp"
+    },
+    {
+      "category_id": 11000,
+      "category_name": "Kill la Kill",
+      "category_image": "11000.webp"
+    },
+    {
+      "category_id": 11100,
+      "category_name": "Kimi no Na wa (Your Name)",
+      "category_image": "11100.webp"
+    },
+    {
+      "category_id": 11200,
+      "category_name": "Kono Subarashii Sekai ni Shukufuku wo",
+      "category_image": "11200.webp"
+    },
+    {
+      "category_id": 11300,
+      "category_name": "Kuroko no Basket (Kuroko's Basketball)",
+      "category_image": "11300.webp"
+    },
+    {
+      "category_id": 11400,
+      "category_name": "Magi: The Labyrinth of Magic",
+      "category_image": "11400.webp"
+    },
+    {
+      "category_id": 11500,
+      "category_name": "Monogatari Series",
+      "category_image": "11500.webp"
+    },
+    {
+      "category_id": 11600,
+      "category_name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "category_image": "11600.webp"
+    },
+    {
+      "category_id": 11700,
+      "category_name": "Neon Genesis Evangelion",
+      "category_image": "11700.webp"
+    },
+    {
+      "category_id": 11800,
+      "category_name": "Nier",
+      "category_image": "11800.webp"
+    },
+    {
+      "category_id": 11900,
+      "category_name": "No Game No Life",
+      "category_image": "11900.webp"
+    },
+    {
+      "category_id": 12000,
+      "category_name": "Noblesse",
+      "category_image": "12000.webp"
+    },
+    {
+      "category_id": 12100,
+      "category_name": "Noragami",
+      "category_image": "12100.webp"
+    },
+    {
+      "category_id": 12200,
+      "category_name": "Overlord",
+      "category_image": "12200.webp"
+    },
+    {
+      "category_id": 12300,
+      "category_name": "Persona",
+      "category_image": "12300.webp"
+    },
+    {
+      "category_id": 12400,
+      "category_name": "Pokemon",
+      "category_image": "12400.webp"
+    },
+    {
+      "category_id": 12500,
+      "category_name": "Ra Creator",
+      "category_image": "12500.webp"
+    },
+    {
+      "category_id": 12600,
+      "category_name": "Re Zero",
+      "category_image": "12600.webp"
+    },
+    {
+      "category_id": 12700,
+      "category_name": "Sailor Moon",
+      "category_image": "12700.webp"
+    },
+    {
+      "category_id": 12800,
+      "category_name": "Saint Seiya",
+      "category_image": "12800.webp"
+    },
+    {
+      "category_id": 12900,
+      "category_name": "Samurai X",
+      "category_image": "12900.webp"
+    },
+    {
+      "category_id": 13000,
+      "category_name": "Sword Art Online (SAO)",
+      "category_image": "13000.webp"
+    },
+    {
+      "category_id": 13100,
+      "category_name": "Seven Deadly Sins",
+      "category_image": "13100.webp"
+    },
+    {
+      "category_id": 13200,
+      "category_name": "Shaman King",
+      "category_image": "13200.webp"
+    },
+    {
+      "category_id": 13300,
+      "category_name": "Shokugeki no Soma",
+      "category_image": "13300.webp"
+    },
+    {
+      "category_id": 13400,
+      "category_name": "Sino Alice",
+      "category_image": "13400.webp"
+    },
+    {
+      "category_id": 13500,
+      "category_name": "Slam Dunk",
+      "category_image": "13500.webp"
+    },
+    {
+      "category_id": 13600,
+      "category_name": "Solo Leveling",
+      "category_image": "13600.webp"
+    },
+    {
+      "category_id": 13620,
+      "category_name": "Spy x Family",
+      "category_image": "13620.webp"
+    },
+    {
+      "category_id": 13700,
+      "category_name": "Steins Gate",
+      "category_image": "13700.webp"
+    },
+    {
+      "category_id": 13800,
+      "category_name": "Tate no Yuusha no Nariagari",
+      "category_image": "13800.webp"
+    },
+    {
+      "category_id": 13900,
+      "category_name": "Tensura (Tensei Shitara Slime Datta Ken)",
+      "category_image": "13900.webp"
+    },
+    {
+      "category_id": 14000,
+      "category_name": "The Promised Neverland",
+      "category_image": "14000.webp"
+    },
+    {
+      "category_id": 14100,
+      "category_name": "Touhou Project",
+      "category_image": "14100.webp"
+    },
+    {
+      "category_id": 14200,
+      "category_name": "Vinland Saga",
+      "category_image": "14200.webp"
+    },
+    {
+      "category_id": 14300,
+      "category_name": "Violet Evergarden",
+      "category_image": "14300.webp"
+    },
+    {
+      "category_id": 14400,
+      "category_name": "Vocaloid",
+      "category_image": "14400.webp"
+    },
+    {
+      "category_id": 14500,
+      "category_name": "Wonder Egg Priority",
+      "category_image": "14500.webp"
+    },
+    {
+      "category_id": 14600,
+      "category_name": "Your Lie in April",
+      "category_image": "14600.webp"
+    },
+    {
+      "category_id": 14700,
+      "category_name": "Yu-Gi-Oh!",
+      "category_image": "14700.webp"
+    }
+  ]
+}
