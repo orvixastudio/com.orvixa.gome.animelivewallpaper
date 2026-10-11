@@ -1,0 +1,28 @@
+{
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Fluid Wallpapers 3D Live 4K",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.fluid.wallpapers.live3d@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.fluid.wallpapers.live3d"
+    },
+    {
+      "id": 2,
+      "title": "Hacker Screen Wallpapers 4K",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.hacker.screen.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.hacker.screen.wallpapers"
+    },
+    {
+      "id": 3,
+      "title": "Broken Screen Prank Wallpapers",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.broken.screen.prank.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.broken.screen.prank.wallpapers"
+    },
+    {
+      "id": 4,
+      "title": "Material Pallete Wallpapers 4K",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.material.palette.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.material.palette.wallpapers"
+    }
+  ]
+}
