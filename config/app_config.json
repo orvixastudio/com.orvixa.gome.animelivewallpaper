@@ -22,7 +22,7 @@
     "mainAds": "admob",
     "backupAds": "none",
     "adStatus": true,
-    "interstitialInterval": 3,
+    "interstitialInterval": 4,
     "bannerStatus": false,
     "interstitialStatus": true,
     "nativeStatus": true,
