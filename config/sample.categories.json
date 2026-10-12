@@ -24,6 +24,11 @@
       "category_id": 1928500,
       "category_name": "Mecha & Robots",
       "category_image": "1928500.webp"
+    },
+    {
+      "category_id": 1928600,
+      "category_name": "Live Wallpapers",
+      "category_image": "11000.webp"
     }
   ]
 }
