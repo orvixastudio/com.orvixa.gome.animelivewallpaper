@@ -3,7 +3,7 @@
     "status": true,
     "featured_categories": "Lofi & Scenery, Fantasy & Magic, Cyberpunk & Sci-Fi, Samurai & Ninja, Mecha & Robots",
     "show_wallpaper_name": true,
-    "show_wallpaper_category": true,
+    "show_wallpaper_category": false,
     "show_favorite_button_in_wallpaper_list": true,
     "enable_slider_wallpaper": false,
     "enable_rtl_mode": false,
